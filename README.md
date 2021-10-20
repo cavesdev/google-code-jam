@@ -22,3 +22,4 @@ This repository shows reference solutions for several Google Code Jam problems.
 16. [Tidy numbers](solutions/tidy-numbers)
 17. [Trouble sort](solutions/trouble-sort)
 18. [Cheating Detection](solutions/cheating-detection)
+19. [Median Sort](solutions/median-sort)
